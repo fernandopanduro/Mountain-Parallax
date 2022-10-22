@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Mountain Parallax</title>
+</head>
+<body>
+    <section>
+        <img src="bg (1).jpg" alt="bg" id="bg">
+        <img src="moon.png" alt="moon" id="moon">
+        <img src="mountain.png" alt="" id="mountain">
+        <img src="road.png" alt="road" id="road">
+        <h2 id="text">Mountain Light</h2>
+    </section>
+
+    <script type="text/javascript">
+         var bg = document.getElementById('bg');
+         var moon = document.getElementById('moon');
+         var mountain = document.getElementById('mountain');
+         var road = document.getElementById('road');
+         var text = document.getElementById('text');
+
+         window.addEventListener('scroll', function () {
+            var value = window.scrollY;
+
+            bg.style.top = value * 0.5 + 'px'
+            moon.style.left = -value * 0.5 + 'px'
+            mountain.style.top = -value * 0.15 + 'px'
+            road.style.top = value * 0.15 + 'px'
+            text.style.top = value * 1 + 'px'
+         })
+    </script>
+</body>
+</html>
