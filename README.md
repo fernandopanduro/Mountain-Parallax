@@ -1,7 +1,7 @@
 
 <h1 align="center"> 🏔️ Mountain - Parallax ⛰️</h1>
 
-<p align="center"> Efecto Parallax sobre una mantañas </p> 
+<p align="center"> Efecto Parallax sobre unas mantañas </p> 
 
 
 
