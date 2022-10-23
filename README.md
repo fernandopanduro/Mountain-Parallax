@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/92656447/197396901-da808c51-9fed-4547-
 Bifurcar el repositorio. luego clone el repositorio localmente haciendo:
 
 ```bash
-git clone https://github.com/fernandopanduro/Indicador-De-Bateria.git
+git clone https://github.com/fernandopanduro/Mountain-Parallax.git
 ```
 
 ### Paso 2: Iniciar
