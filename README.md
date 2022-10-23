@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/92656447/197396901-da808c51-9fed-4547-
 * [Javasript](https://developer.mozilla.org/es/docs/Web/JavaScript) - El lenguaje programacion web usado
 * [HTML](https://developer.mozilla.org/es/docs/Web/HTML) - El lenguaje web usado
 * [CSS](https://developer.mozilla.org/es/docs/Web/CSS) - Manejador de estilos
-* [Demo](https://batteryfernando.netlify.app/) - Ultima version funcional
+* [Demo](https://mountainparallax.netlify.app/) - Ultima version funcional
 
 ## 🧑‍💻 Instalacion 
 
